@@ -1,0 +1,13 @@
+.center {
+    margin: auto;
+    padding: 60px;
+    font-size: 40px;
+    width: 12rem;
+    height:12rem;
+    float:left;
+}
+.cardstyle{
+    width: 10rem;
+    height:12rem;
+    float:left;
+}

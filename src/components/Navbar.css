@@ -1,0 +1,79 @@
+.logo{
+display: flex;
+color: black;
+justify-content: start;
+align-items: center;
+padding: 15px 0 0 0;
+}
+.logo-name{
+font-size: 60px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: bolder;
+float: left;
+}
+.logo-img{
+    height: 48px;
+    width: 50px;
+    float: left;
+
+}
+.menu-link ul{
+    height: 5rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 80px 0 0 0;
+}
+.menu-link ul li {
+    font-size: 1rem;
+    list-style-type: none;
+    font-weight: bolder;
+}
+.menu-link ul li a{
+    text-transform: capitalize;
+    color: black;
+    text-decoration: none;
+}
+.profile{
+    height: 8rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 0 0 70px;
+}
+.profile-1{
+    height: 2.5rem;
+    width: 2.5rem;
+    border: .5px solid black;
+    border-bottom-right-radius: 100%;
+    border-top-right-radius:100%;
+    border-top-left-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.profile-11{
+    height: 2rem;
+    width: 2rem;
+    background-color:#ff08b5;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-weight: bolder;
+    color: aliceblue;
+}
+.profile-2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.profile-21
+{
+    height: 3rem;
+    width: 4rem;
+    background-color: #e3e2e1;
+    border-radius: 100%;
+}

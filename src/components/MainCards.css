@@ -1,0 +1,61 @@
+.explore{
+    height: 14rem;
+    width: 32rem;
+    border: 2px dashed #e3e2e1;
+}
+.explore-txt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    font-weight: bolder;
+    padding: 50px 0 0 0;
+}
+.explore-1{
+    height: 4rem;
+    width: 4rem;
+    background-color: #e3e2e1;
+    border-radius: 100%;
+    margin: 29px 0 0 10px;
+    align-items: center;
+    justify-content:center;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 19px 0 0 0;
+}
+.games{
+    height: 14rem;
+    width: 32rem;
+    border: 2px dashed #e3e2e1;
+}
+.games-txt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    font-weight: bolder;
+    padding: 50px 0 0 0;
+}
+.games-1{
+    height: 4rem;
+    width: 4rem;
+    background-color: #e3e2e1;
+    border-radius: 100%;
+    margin: 29px 0 0 10px;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 19px 0 0 0;
+    float: left;
+}
+.games-2{
+    height: 2.5rem;
+    width: 9rem;
+    background-color: #e3e2e1;
+    margin: 48px 13px 0 0;
+    align-items: center;
+    justify-content:center;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 2px 0 0 4px;
+    float: right;
+}
